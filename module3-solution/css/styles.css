@@ -17,6 +17,10 @@
     margin-left: 0%;
 }
 
+.nav-item {
+    text-align: center;
+}
+
 /** Main Body **/
 
 .menu-item {
