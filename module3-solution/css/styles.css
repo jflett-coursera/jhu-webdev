@@ -1,0 +1,26 @@
+/** HEADER **/
+#header-nav {
+    background-color: grey;
+    border-radius: 0;
+    border: 0;
+}
+
+.navbar-brand {
+    color: black;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+
+.container {
+    margin-left: 0%;
+}
+
+/** Main Body **/
+
+.menu-item {
+    background-color: grey;
+    width: 90%;
+    margin: auto;
+}
